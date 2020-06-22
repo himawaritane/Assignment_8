@@ -1,7 +1,5 @@
 # AD340 -5210
 # Loan Pham 
-Assignment #5
+Assignment #8
 
-Create ForecastDetailsActivity
-Create an AppNavigator interface to communicate between LocationEntryFragment and MainActivity
-Create a CurrentForecastFragment
+Refactor ForecastDetailsFragment to make use of Android ViewBinding and ViewModel.  We will use these to implement an MVVM architecture for our ForecastDetails screen. 
